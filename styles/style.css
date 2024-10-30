@@ -126,6 +126,7 @@ header {
 
 .hero-section .hero-details .subtitle {
   margin-top: 8px;
+  margin-left: 50px;
   max-width: 70%;
   font-size: 4rem;
   font-weight: var(--font-weight-semibold);
@@ -135,6 +136,7 @@ header {
   max-width: 70%;
   margin: 24px 0 40px;
   font-size: 2rem;
+  margin-left: 50px;
 }
 
 .hero-section .hero-details .buttons {
